@@ -17,7 +17,9 @@
 ---
 
 <!-- About Me Section -->
+
 ## 🔍 About Me
+
 ```python
 class DataDeveloper:
     def __init__(self):
@@ -31,8 +33,12 @@ class DataDeveloper:
             "web_dev": ["React", "Next.js", "TypeScript", "Elixir", "Phoenix"],
             "tools": ["Git", "Docker", "Airflow", "Tableau"]
         }
-    
+
     def __str__(self):
         return f"{self.name} - {self.role}"
 
 me = DataDeveloper()
+
+
+<div align="center"> <!-- GitHub Stats --> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="yourusername" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=8&hide=html,css" alt="Top Languages" /> <!-- GitHub Streak --> <img src="https://streak-stats.demolab.com?user=yourusername&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /> <!-- WakaTime (if you use it) --> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&layout=compact&theme=radical&langs_count=6" alt="WakaTime Stats" /> <!-- Trophy Case --> <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" /> </div>
+```
