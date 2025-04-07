@@ -89,9 +89,9 @@
 ### 🚀 Latest Projects
 
 - ⭕ **Web Parser App**: Automating data extraction from government stats platform
-<!-- - ⭕ **Data Dashboard**: Visualizing market trends using Pandas & Matplotlib -->
 - ⭕ **Full-stack Web App**: Real-time messenger application with Phoenix Framework
 - ⭕ **API Automation**: Automating workflows using Python and REST APIs
+<!-- - ⭕ **Data Dashboard**: Visualizing market trends using Pandas & Matplotlib -->
 
 ---
 
@@ -104,15 +104,13 @@
 
 ---
 
-### ✍️ Latest Blog Posts *(Optional, auto update)*
+<!-- ### ✍️ Latest Blog Posts *(Optional, auto update)*
 
-<!-- BLOG-POST-LIST:START -->
 - [How to Automate Data Parsing in Python](https://dev.to/Harakirigi/how-to-automate-data-parsing-in-python)
 - [SQL Tricks for Data Analysts](https://dev.to/Harakirigi/sql-tricks-for-data-analysts)
 - [Building Reactive Web Apps with Phoenix LiveView](https://dev.to/Harakirigi/building-reactive-web-apps-with-phoenix-liveview)
-<!-- BLOG-POST-LIST:END -->
 
----
+--- -->
 
 <p align="center">✨ Thank you for visiting my profile! ✨</p>
 <p align="center">
