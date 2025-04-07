@@ -32,7 +32,7 @@
 ###  Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,,react,nextjs,elixir,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,phoenix,react,nextjs,elixir,figma" alt="Tech Stack" />
 </p>
 
 ---
