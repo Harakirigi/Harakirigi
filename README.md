@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alex-devhub&style=flat-square&color=blue" alt="profile views" /> 
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/alex-devhub?style=social" />
-  <img src="https://img.shields.io/github/stars/alex-devhub?style=social" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Harakirigi&style=flat-square&color=blue" alt="profile views" /> 
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Harakirigi?style=social" />
+  <img src="https://img.shields.io/github/stars/Harakirigi?style=social" alt="GitHub Stars" />
 </p>
 
 ---
@@ -40,15 +40,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alex-devhub&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harakirigi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alex-devhub&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harakirigi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alex-devhub&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Harakirigi&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alex-devhub&theme=dracula&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harakirigi&theme=dracula&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -64,7 +64,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alex-devhub/alex-devhub/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/Harakirigi/Harakirigi/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ### 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-devhub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harakirigi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -80,7 +80,7 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/alex-devhub" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/Harakirigi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://twitter.com/alex_devhub" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
   <a href="mailto:alex.devhub@example.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
 </p>
@@ -108,9 +108,9 @@
 ### ✍️ Latest Blog Posts *(Optional, auto update)*
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Automate Data Parsing in Python](https://dev.to/alex-devhub/how-to-automate-data-parsing-in-python)
-- [SQL Tricks for Data Analysts](https://dev.to/alex-devhub/sql-tricks-for-data-analysts)
-- [Building Reactive Web Apps with Phoenix LiveView](https://dev.to/alex-devhub/building-reactive-web-apps-with-phoenix-liveview)
+- [How to Automate Data Parsing in Python](https://dev.to/Harakirigi/how-to-automate-data-parsing-in-python)
+- [SQL Tricks for Data Analysts](https://dev.to/Harakirigi/sql-tricks-for-data-analysts)
+- [Building Reactive Web Apps with Phoenix LiveView](https://dev.to/Harakirigi/building-reactive-web-apps-with-phoenix-liveview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
