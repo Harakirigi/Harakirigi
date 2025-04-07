@@ -3,18 +3,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlign=50&fontColor=ffffff" alt="banner" />
 </p>
 
-<h1 align="center">Hi there, I'm Aex 🚀</h1>
+<!-- <h1 align="center">Hi there, I'm Aex 🚀</h1> -->
 
 <p align="center">
-  <b>Data Analyst & Full-Stack Developer</b><br>
+  <h3><b>Data Analyst & Full-Stack Developer</b></h3><br>
   Working on Data Science | Web Development | Automation<br>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harakirigi&style=flat-square&color=blue" alt="profile views" /> 
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Harakirigi?style=social" />
   <img src="https://img.shields.io/github/stars/Harakirigi?style=social" alt="GitHub Stars" />
-</p>
+</p> -->
 
 ---
 
