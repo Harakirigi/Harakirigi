@@ -3,11 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlign=50&fontColor=ffffff" alt="banner" />
 </p>
 
-<h1 align="center">Hi there, I'm Alex 🚀</h1>
+<h1 align="center">Hi there, I'm Aex 🚀</h1>
 
 <p align="center">
-  <b>Aspiring Data Analyst & Full-Stack Developer</b><br>
-  Working on 🧩 Data Science | 🕸️ Web Development | 🖥️ Automation<br>
+  <b>Data Analyst & Full-Stack Developer</b><br>
+  Working on Data Science | Web Development | Automation<br>
 </p>
 
 <p align="center">
@@ -18,21 +18,21 @@
 
 ---
 
-### 🧩 About Me
+### 1️⃣ About Me
 
-- 🎓 Focused on **Data Analysis** and **Data Science**
-- 🧠 Daily exploring Python (Pandas, NumPy), SQL, and web parsing
-- 💻 Building **modern web apps** with React/Next.js and Elixir/Phoenix ⚡
-- 🔍 Currently scraping and automating web data
-- 🌱 Learning AI-assisted data insights and visualization
-- 🧩 Passionate about clean code, automation, and efficiency
+- ⭕ Focused on **Data Analysis** and **Web Development**
+- ⭕ Daily exploring Python (Pandas, NumPy), SQL, and Web Parsing
+- ⭕ Building **modern web apps** with React/Next.js and Elixir💧/Phoenix⚡
+- ⭕ Currently scraping and automating web data
+- ⭕ Learning AI-assisted data insights and visualization
+- ⭕ Passionate about clean code, automation, and efficiency
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sql,react,nextjs,elixir,phoenix,git,github,vscode,figma,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,react,nextjs,elixir,figma" alt="Tech Stack" />
 </p>
 
 ---
@@ -81,18 +81,17 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/Harakirigi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/alex_devhub" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
-  <a href="mailto:alex.devhub@example.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:nkomyt2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ---
 
 ### 🚀 Latest Projects
 
-- 🔍 **Web Parser Bot**: Automating data extraction from e-commerce platforms
-- 📊 **Data Dashboard**: Visualizing market trends using Pandas & Matplotlib
-- 🖥️ **Full-stack Web App**: Real-time chat application with Phoenix & React
-- 🧩 **API Automation**: Automating workflows using Python and REST APIs
+- ⭕ **Web Parser App**: Automating data extraction from government stats platform
+<!-- - ⭕ **Data Dashboard**: Visualizing market trends using Pandas & Matplotlib -->
+- ⭕ **Full-stack Web App**: Real-time messenger application with Phoenix Framework
+- ⭕ **API Automation**: Automating workflows using Python and REST APIs
 
 ---
 
