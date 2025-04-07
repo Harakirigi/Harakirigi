@@ -1,6 +1,6 @@
 <!-- Profile banner (optional) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Web%20to%20Developer%20And%20to%20Data%20to%20Analyst!&fontSize=40&fontAlign=50&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Web%20Developer%20And%20Data%20Analyst%20to%20here&fontSize=40&fontAlign=50&fontColor=ffffff" alt="banner" />
 </p>
 
 <!-- <h1 align="center">Hi there, I'm Aex 🚀</h1> -->
