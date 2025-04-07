@@ -29,15 +29,15 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,nextjs,elixir,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,,react,nextjs,elixir,figma" alt="Tech Stack" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harakirigi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -49,17 +49,17 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Harakirigi&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
+</p> -->
 
----
+<!-- ---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Harakirigi&theme=dracula&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
+</p> -->
 
----
+<!-- ---
 
 ### 🐍 Contribution Snake
 
@@ -67,9 +67,9 @@
   <img src="https://raw.githubusercontent.com/Harakirigi/Harakirigi/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
----
+--- -->
 
-### 📈 Top Languages
+<!-- ### 📈 Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harakirigi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
@@ -82,18 +82,18 @@
 <p align="center">
   <a href="https://linkedin.com/in/Harakirigi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:nkomyt2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
-</p>
+</p> -->
 
----
+<!-- ---
 
 ### 🚀 Latest Projects
 
 - ⭕ **Web Parser App**: Automating data extraction from government stats platform
 - ⭕ **Full-stack Web App**: Real-time messenger application with Phoenix Framework
-- ⭕ **API Automation**: Automating workflows using Python and REST APIs
+- ⭕ **API Automation**: Automating workflows using Python and REST APIs -->
 <!-- - ⭕ **Data Dashboard**: Visualizing market trends using Pandas & Matplotlib -->
 
----
+<!-- ---
 
 ### 📚 Currently Learning
 
@@ -102,7 +102,7 @@
 - Next.js 14 & Server Components
 - ML-powered data visualizations
 
----
+--- -->
 
 <!-- ### ✍️ Latest Blog Posts *(Optional, auto update)*
 
@@ -112,7 +112,7 @@
 
 --- -->
 
-<p align="center">✨ Thank you for visiting my profile! ✨</p>
+<!-- <p align="center">✨ Thank you for visiting my profile! ✨</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Keep+learning;Keep+building;Keep+exploring+data!" alt="Typing SVG" />
-</p>
+</p> -->
