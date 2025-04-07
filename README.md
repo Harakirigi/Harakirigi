@@ -1,12 +1,12 @@
 <!-- Profile banner (optional) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Web%20Developer%20And%20Data%20Analyst%20to%20here&fontSize=40&fontAlign=50&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Web%20Developer%20And%20Data%20Analyst&fontSize=40&fontAlign=50&fontColor=ffffff" alt="banner" />
 </p>
 
 <!-- <h1 align="center">Hi there, I'm Aex 🚀</h1> -->
 
 <p align="center">
-  <h3><b>Data Analyst & Full-Stack Developer</b></h3><br>
+  <h3><b>Data Analyst & Full-Stack Developer</b></h3>
   Working on Data Science | Web Development | Automation<br>
 </p>
 
@@ -18,7 +18,7 @@
 
 ---
 
-### 1️⃣ About Me
+### Something about what I do
 
 - ⭕ Focused on **Data Analysis** and **Web Development**
 - ⭕ Daily exploring Python (Pandas, NumPy), SQL, and Web Parsing
@@ -32,7 +32,7 @@
 ###  Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,phoenix,react,nextjs,elixir,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,react,nextjs,elixir,figma" alt="Tech Stack" />
 </p>
 
 ---
