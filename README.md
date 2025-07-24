@@ -18,22 +18,14 @@
 
 ---
 
-### Something about what I do
+### My daily tech stack includes:
 
-- ⭕ Focused on **Data Analysis** and **Web Development**
-- ⭕ Daily exploring Python (Pandas, NumPy), SQL, and Web Parsing
-- ⭕ Building **modern web apps** with React/Next.js and Elixir💧/Phoenix⚡
-- ⭕ Currently scraping and automating web data
-- ⭕ Learning AI-assisted data insights and visualization
-- ⭕ Passionate about clean code, automation, and efficiency
-
----
-
-###  Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,elixir,mongodb,postgres,mysql,react,nextjs,figma" alt="Tech Stack" />
-</p>
+- ⭕ Backend: Go, Python (FastAPI, Django), Node.js (NestJS), PHP (Laravel), Java (Spring Boot)
+- ⭕ Frontend: React, Next.js, Vue, Nuxt, React Native, TypeScript, TailwindCSS
+- ⭕ DevOps: Docker, Docker Compose, Kubernetes, Prometheus, Grafana
+- ⭕ Databases: PostgreSQL, MySQL, Redis, MongoDB
+- ⭕ Mobile: Flutter (cross-platform development with clean architecture)
+- ⭕ Integrations: REST, WebSocket, gRPC, OAuth2, Celery, RabbitMQ
 
 ---
 
